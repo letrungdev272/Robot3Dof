@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.exe.config
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.exe
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_LOG_IN.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.Form1.resources
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_LOG_IN.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_LOG_IN.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.exe
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.pdb

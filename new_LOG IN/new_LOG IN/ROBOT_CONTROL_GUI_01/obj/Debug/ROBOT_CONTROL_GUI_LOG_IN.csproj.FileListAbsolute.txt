@@ -1,0 +1,76 @@
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe.config
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.pdb
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csprojAssemblyReference.cache
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form1.resources
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form2.resources
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.GenerateResource.cache
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.CoreCompileInputs.cache
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.exe
+D:\TAI LIEU\Robot\tdk\LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.pdb
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe.config
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.pdb
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csprojAssemblyReference.cache
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form1.resources
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form2.resources
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.GenerateResource.cache
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.CoreCompileInputs.cache
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.exe
+D:\TAI LIEU\Robot\tdk\new_LOG IN_feedback  111\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe.config
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csprojAssemblyReference.cache
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form1.resources
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form2.resources
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.GenerateResource.cache
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.CoreCompileInputs.cache
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\Trung\Desktop\08-SPK-THMK-CODE\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe.config
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csprojAssemblyReference.cache
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form1.resources
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form2.resources
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.GenerateResource.cache
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.CoreCompileInputs.cache
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\NHOM8-CODE\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe.config
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csprojAssemblyReference.cache
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form1.resources
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form2.resources
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.GenerateResource.cache
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.CoreCompileInputs.cache
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\Trung\Desktop\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe.config
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csprojAssemblyReference.cache
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form1.resources
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form2.resources
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.GenerateResource.cache
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.CoreCompileInputs.cache
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\Trung\OneDrive\Documents\ROBOT\robot_new\CODE_arduino\GIAODIEN\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe.config
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Debug\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Form1.resources
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_LOG_IN.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.exe
+C:\Users\PC\Downloads\new_LOG IN\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Debug\ROBOT_CONTROL_GUI_01.pdb
